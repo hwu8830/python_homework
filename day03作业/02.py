@@ -11,7 +11,7 @@ for j in range(4,i):
         print("这不是一个质数")
         
        
-    elif i == (j+1):
+    elif j == (i+1):
         print("这是一个质数")
     
 
